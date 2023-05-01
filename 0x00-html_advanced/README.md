@@ -14,3 +14,18 @@ __Repo:__
 * GitHub repository: alx-frontend
 * Directory: 0x00-html_advanced
 * File: 0-index.html
+
+__1. Structure your webpage__
+
+Copy the content of 0-index.html into 1-index.html
+
+__Create the head and body sections__
+
+* inside the html tag, create the head and body tags (empty) in this order
+__W3C won't pass - you can ignore it
+
+__Repo__
+
+* GitHub repository: alx-frontend
+* Directory: 0x00-html_advanced
+* File: 1-index.html
