@@ -60,4 +60,9 @@ The differences between medias (SVG, GIF, PNG, JPG)
 
 # Sitemap of the project
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230430T142920Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=29bf76a203df276740bb345f2b1827b3b3760bc36b044ab722e437d8697e2189)
+![](https://res.cloudinary.com/edemoski/image/upload/v1682957448/bcjwe2f5kodifdw0tqpd.png)
+
+# Wireframe of <span style="color:red">Techium</span> project
+
+![](https://res.cloudinary.com/edemoski/image/upload/v1682957529/mglno6i7bf0vpaspzl09.png)
+
